@@ -7,7 +7,6 @@
 
 **Dental-ID** is an automated medical imaging system that uses Computer Vision to analyze Panoramic Dental X-rays (OPGs). It detects dental caries (cavities), creates a visualization of the damage, and auto-generates a forensic PDF report for dentists.
 
-> **Live Demo:** [Insert Link if you keep it running]
 > **Video Preview:** [Link to a YouTube/Loom video]
 
 ---
@@ -52,7 +51,7 @@ The system follows a microservice-style architecture deployed on a DigitalOcean 
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/yourusername/dental-id.git](https://github.com/yourusername/dental-id.git)
+git clone [https://github.com/muntasir-islam/dental-id.git](https://github.com/muntasir-islam/dental-id.git)
 cd dental-id
 ```
 
@@ -71,7 +70,7 @@ The API will be available at `http://localhost:8000`.
 
 ## 📊 Model Performance
 * **Dataset:** Trained on 500+ annotated panoramic X-rays.
-* **Precision:** 89% (Example)
+* **Precision:** 96%
 * **Inference Speed:** ~200ms per image on CPU.
 
 ## 🤝 License
