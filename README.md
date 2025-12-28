@@ -51,7 +51,7 @@ The system follows a microservice-style architecture deployed on a DigitalOcean 
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/muntasir-islam/dental-id.git](https://github.com/muntasir-islam/dental-id.git)
+git clone https://github.com/muntasir-islam/dental-id.git
 cd dental-id
 ```
 
