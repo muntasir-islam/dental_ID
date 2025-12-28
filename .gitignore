@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Large Model Files (Too big for standard Git)
+*.pt
+best.pt
+last.pt
+
+# User uploads/Generated Reports
+*.pdf
+processed_xray.jpg
+
+# IDE settings
+.vscode/
+.idea/
